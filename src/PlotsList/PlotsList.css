@@ -70,3 +70,28 @@
     padding-right: 2rem;
     font-size: 2rem;
 }
+
+
+@media screen and (max-width: 630px){
+
+.trade-area {
+    display: flex;
+    flex-flow: column nowrap;
+}
+.mid {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 0rem;
+
+}
+.iframe {
+    display: flex;
+    flex-flow: row nowrap;
+    padding: 0.2rem;
+    height: 350px;
+    width: 350px;
+}
+
+
+
+}

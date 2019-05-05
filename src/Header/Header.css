@@ -23,3 +23,13 @@
     text-decoration: none;
 }
 
+@media screen and (max-width: 630px){
+
+.Header-div {
+    font-size: 0.3rem;
+    text-align: center;
+}
+
+
+
+}
