@@ -1,3 +1,9 @@
+.Contact {
+    background-color: #46494c;
+    color: #dcdcdc;
+}
+
+
 .c {
     display: flex;
     text-align: center;
@@ -9,6 +15,8 @@
     font-size: 3rem;
     padding: 1rem;
     text-align: center;
+    color: #1986a1;
+    font-weight: bolder;
 }
 
 .Contact-left {
@@ -24,8 +32,8 @@
 }
 
 .input {
-    background-color: #A7A2A2;
-    color: #FBFCF2;
+    background-color: #4c5c68;
+    color: #dcdcdc;
     border: none;
     font-size: 1.3rem;
     border-radius: 10px;
@@ -39,8 +47,8 @@
 }
 .home-buttons {
     /* grid-area: home-buttons; */
-    background-color: #FBFCF2;
-    color: #877476;
+    background-color: #dcdcdc;
+    color: #4c5c68;
     border: none;
     outline: none;
     border-radius: 25px;
@@ -52,8 +60,8 @@
 }
 
 .home-buttons:hover {
-    background-color: #A7A2A2;
-    color: #FBFCF2;
+    background-color: #4c5c68;
+    color: #dcdcdc;
     border: none;
     outline: none;
     border-radius: 25px;

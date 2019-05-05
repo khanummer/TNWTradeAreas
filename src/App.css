@@ -1,0 +1,57 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}   
+   
+   
+   
+   a:link    {
+    /* Applies to all unvisited links */
+    text-decoration:  none;
+    font-weight:      bold;
+ 
+    } 
+  a:visited {
+    /* Applies to all visited links */
+    text-decoration:  none;
+    font-weight:      bold;
+
+    } 
+  a:hover   {
+    /* Applies to links under the pointer */
+    text-decoration:  none;
+    font-weight:      bold;
+
+    } 
+  a:active  {
+    /* Applies to activated links */
+    text-decoration:  none;
+    font-weight:      bold;
+
+    } 
+
+    .Link:link    {
+        /* Applies to all unvisited links */
+        text-decoration:  none;
+        font-weight:      bold;
+     
+        } 
+      .Link:visited {
+        /* Applies to all visited links */
+        text-decoration:  none;
+        font-weight:      bold;
+    
+        } 
+      .Link:hover   {
+        /* Applies to links under the pointer */
+        text-decoration:  none;
+        font-weight:      bold;
+    
+        } 
+      .Link:active  {
+        /* Applies to activated links */
+        text-decoration:  none;
+        font-weight:      bold;
+    
+        } 
+    
+    

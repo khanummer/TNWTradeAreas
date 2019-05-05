@@ -2,14 +2,24 @@
     display: flex;
     align-items: center;
     padding: 1rem;
-    /* background-color: #5d5c61; */
-    /* color: #379683; */
+    background-color: #4c5c68;
+    color: #46494c;
 }
 
 .Header-div {
     padding: 1rem;
-    color: black;
+    /* color: black; */
     /* color: #379683; */
+    color: #dcdcdc;
+    
+    text-decoration: none;
+}
+.Header-div:hover {
+    padding: 1rem;
+    /* color: black; */
+    /* color: #379683; */
+    color: #46494c;
 
     text-decoration: none;
 }
+

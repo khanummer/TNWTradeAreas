@@ -15,39 +15,58 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+.plots-list {
+    background-color: #46494c;
+    color: #dcdcdd;
+}
+
+
 .plots-list-title {
     font-size: 3.5rem;
     text-align: center;
     padding: 1rem;
+    color: #1986a1;
+    font-weight: bolder;
+    
 }
 
 .plots-list-subtitle {
     font-size: 1.7rem;
     text-align: center;
+    color: #1986a1;
+    font-weight: bold;
 }
 
 .trade-area {
     display: flex;
     flex-flow: row nowrap;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     align-self: center;
     text-align: center;
     padding: 4rem;
+    
+
 }
 
 .mid {
     display: flex;
     flex-flow: column nowrap;
+    padding-right: 10rem;
 }
+
+/* .iframe {
+    align-self: right;
+} */
 
 .trade-area-name {
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
+    
 }
 
 .trade-area-population {
     padding: 1rem;
     padding-right: 2rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }

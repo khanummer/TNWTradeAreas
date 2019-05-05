@@ -2,16 +2,22 @@
     display: flex;
     flex-flow: column nowrap;
     text-align: center;
+    background-color: #46494c;
+    color: #dcdcdc;
+    height: 100vh;
 }
 
 .list {
     list-style: none;
     font-size: 1.5rem;
+    color: #1986a1
 }
 
 .Inc-title {
     font-size: 3rem;
     padding: 2rem;
+    color: #1986a1;
+    font-weight: bolder;
 }
 
 .Inc-div {
