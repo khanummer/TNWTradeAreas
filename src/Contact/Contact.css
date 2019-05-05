@@ -9,6 +9,7 @@
     text-align: center;
     flex-flow: row nowrap;
     justify-content: center;
+    height: 100vh;
 }
 
 .Contact-header {
@@ -23,7 +24,7 @@
     display: flex;
     text-align: center;
     flex-flow: column nowrap;
-    justify-content: center;
+    /* justify-content: center; */
     padding: 5rem;
 }
 
@@ -78,6 +79,7 @@
         text-align: center;
         flex-flow: column nowrap;
         justify-content: center;
+        height: 200vh;
         
     }
 

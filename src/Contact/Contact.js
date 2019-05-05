@@ -24,8 +24,6 @@ class Contact extends Component {
               <form action="mailto:wrkhan2@aol.com" method="post" enctype="text/plain">
                 Name:<br></br>
                   <input  className="input" type="text" name="Name"></input><br></br>
-                E-Mail:<br></br>
-                  <input  className="input" type="text" name="E-Mail"></input><br></br>
                 Phone Number:<br></br>
                   <input className="input"  type="text" name="Phone Number"></input><br></br>
                 Trade Areas Interested In:<br></br>
