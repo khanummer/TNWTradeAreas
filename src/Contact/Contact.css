@@ -1,0 +1,65 @@
+.c {
+    display: flex;
+    text-align: center;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.Contact-header {
+    font-size: 3rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.Contact-left {
+    display: flex;
+    text-align: center;
+    flex-flow: column nowrap;
+    justify-content: center;
+    padding: 5rem;
+}
+
+.Contact-form {
+    padding: 5rem;
+}
+
+.input {
+    background-color: #A7A2A2;
+    color: #FBFCF2;
+    border: none;
+    font-size: 1.3rem;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 0.3rem;
+}
+
+.i {
+    padding: 2rem;
+    font-size: 2rem;
+}
+.home-buttons {
+    /* grid-area: home-buttons; */
+    background-color: #FBFCF2;
+    color: #877476;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    padding: 7px 30px;
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 1rem;
+    text-align: center;
+}
+
+.home-buttons:hover {
+    background-color: #A7A2A2;
+    color: #FBFCF2;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    padding: 7px 30px;
+    /* font-size: 1.2rem; */
+    font-weight: 500;
+    margin: 1rem;
+    text-align: center;
+}

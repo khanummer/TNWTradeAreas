@@ -1,0 +1,15 @@
+.Header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    /* background-color: #5d5c61; */
+    /* color: #379683; */
+}
+
+.Header-div {
+    padding: 1rem;
+    color: black;
+    /* color: #379683; */
+
+    text-decoration: none;
+}

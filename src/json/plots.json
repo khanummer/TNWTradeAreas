@@ -1,0 +1,119 @@
+[
+    {   "tradeArea": "1",
+        "location": "Fresno, CA", 
+        "population": "98,736",
+        "id": "0"
+    },
+
+    {   "tradeArea": "2",
+        "location": "Sacramento, CA",
+        "population": "103,015",
+        "id": "1"
+    },
+
+    {   "tradeArea": "3",
+        "location": "Fresno, CA",
+        "population": "105,840",
+        "id": "2"
+    },
+
+    {   "tradeArea": "4",
+        "location": "Fresno, CA",
+        "population": "88,259",
+        "id": "3"
+    },
+
+    {   "tradeArea": "5",
+        "location": "Sacramento, CA",
+        "population": "110,875",
+        "id": "4"
+    },
+
+    {   "tradeArea": "6",
+        "location": "Madesa, CA",
+        "population": "83,556",
+        "id": "5"
+    },
+    
+    {   "tradeArea": "7",
+        "location": "Reedly, CA",
+        "population": "70,946",
+        "id": "6"
+    },
+    
+    {   "tradeArea": "8",
+        "location": "Selma, CA",
+        "population": "50,532",
+        "id": "7"
+    },
+    
+    {   "tradeArea": "9",
+        "location": "Hanford, CA",
+        "population": "68,795",
+        "id": "8"
+    },
+    
+    {
+        "tradeArea": "10",
+        "location": "Lemoore, CA",
+        "population": "37,938",
+        "id": "9"
+    },
+    
+    {
+        "tradeArea": "11",
+        "location": "Visalia, CA",
+        "population": "83,756",
+        "id": "10"
+    },
+    
+    {
+        "tradeArea": "12",
+        "location": "Visalia, CA",
+        "population": "75,067",
+        "id": "11"
+    },
+    
+    {
+        "tradeArea": "13",
+        "location": "Tulare, CA",
+        "population": "70,292",
+        "id": "12"
+    },
+    
+    {
+        "tradeArea": "14",
+        "location": "Porterville, CA",
+        "population": "80,524",
+        "id": "13"
+    },
+    
+    {
+        "tradeArea": "15",
+        "location": "Delano, CA",
+        "population": "77,284",
+        "id": "14"
+    },
+    
+    {
+        "tradeArea": "16",
+        "location": "Sanger, CA",
+        "population": "31,186",
+        "id": "15"
+    },
+    
+    {
+        "tradeArea": "17",
+        "location": "Fresno, CA",
+        "population": "91,110",
+        "id": "16"
+    },
+    
+    {
+        "tradeArea": "18",
+        "location": "Clovis, CA",
+        "population": "105,461",
+        "id": "17"
+    }
+    
+]
