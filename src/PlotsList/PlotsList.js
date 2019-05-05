@@ -18,6 +18,8 @@ class PlotsList extends Component {
 
         <div className="plots-list-subtitle">Southern California Papa John's Trade Area's</div>
 
+        <div className="plots-list-sub-subtitle">Fresno | Sacramento | Visalia | Madera | Reedly | Selma | Hanford | Lemoore | Tulare | Porterville | Delano | Sanger | Clovis </div>
+
         {/* { this.state.plots.map((plot, i) =>  
             <div className="plots-list-plot" key={i}>
                 <Link to={`/plots/${plot.id}`}><div className="plots-list-plot-name"> Trade Area #{plot.tradeArea}</div></Link>
