@@ -16,7 +16,7 @@ class PlotsList extends Component {
         
         <div className="plots-list-title">TNW BUISNESS BROKERS</div>
 
-        <div className="plots-list-subtitle">Southern California Papa John's Trade Area's</div>
+        <div className="plots-list-subtitle">California Papa John's Trade Area's</div>
 
         <div className="plots-list-sub-subtitle">Fresno | Sacramento | Visalia | Madera | Reedly | Selma | Hanford | Lemoore | Tulare | Porterville | Delano | Sanger | Clovis </div>
 
