@@ -1,0 +1,20 @@
+.Inc {
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.Inc-title {
+    font-size: 3rem;
+    padding: 2rem;
+}
+
+.Inc-div {
+    font-size: 2rem;
+    padding: 0.5rem;
+}
