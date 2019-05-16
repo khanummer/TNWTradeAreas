@@ -78,7 +78,38 @@
     padding-right: 2rem;
     font-size: 2rem;
 }
+a    {
+    /* Applies to all unvisited links */
+    text-decoration:  none;
+    font-weight:      bold;
+    color: #dcdcdd;
+ 
+    } 
+a:link    {
+    /* Applies to all unvisited links */
+    text-decoration:  none;
+    font-weight:      bold;
+ 
+    } 
+  a:visited {
+    /* Applies to all visited links */
+    text-decoration:  none;
+    font-weight:      bold;
 
+    } 
+  a:hover   {
+    /* Applies to links under the pointer */
+    text-decoration:  none;
+    font-weight:      bold;
+    color: #1986a1
+
+    } 
+  a:active  {
+    /* Applies to activated links */
+    text-decoration:  none;
+    font-weight:      bold;
+
+    } 
 
 @media screen and (max-width: 630px){
 
